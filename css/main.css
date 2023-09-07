@@ -1,4 +1,7 @@
 /* Place CSS styles here */
+
 body{
-    color:black;background-color:rgb(227, 179, 255)
+    list-style-position: inside;
+    text-align: center;
+    color:black;background-color:rgb(232, 202, 250)
 }
