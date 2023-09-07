@@ -1,20 +1,14 @@
 /* Place CSS styles here */
-
-.container{
-    width: 200px;
-    height: 400px;
-    background: linear-gradient(
-    to top,
-    pink 50%,
-    paleturquoise 50%,
-    );
+header{
+    background-color: #90e0f9;
+    border: 30px;
+    height: 100px;
 }
 
 body{
-    
     list-style-position: inside;
     text-align: center;
-    color:black;background-color:rgb(232, 202, 250)
-}
     color:black;
    /* background-color:rgb(232, 202, 250)*/
+    background-color:#e8cafa
+}
