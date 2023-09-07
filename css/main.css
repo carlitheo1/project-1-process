@@ -1,8 +1,20 @@
 /* Place CSS styles here */
 
+.container{
+    width: 200px;
+    height: 400px;
+    background: linear-gradient(
+    to top,
+    pink 50%,
+    paleturquoise 50%,
+    );
+}
+
 body{
     
     list-style-position: inside;
     text-align: center;
     color:black;background-color:rgb(232, 202, 250)
 }
+    color:black;
+   /* background-color:rgb(232, 202, 250)*/
