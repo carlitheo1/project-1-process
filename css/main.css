@@ -3,12 +3,20 @@ header{
     background-color: #90e0f9;
     border: 30px;
     height: 100px;
+    background-color: #bf00ff;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
 
 body{
     list-style-position: inside;
     text-align: center;
     color:black;
-   /* background-color:rgb(232, 202, 250)*/
     background-color:#e8cafa
+}
+
+footer{
+    background-color: #bf00ff;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
